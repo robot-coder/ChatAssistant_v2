@@ -1,29 +1,29 @@
-# ChatAssistant_v2
+# Chat Assistant
 
-A Chat Assistant project using FastAPI and JavaScript.
+## Overview
+This project is a Chat Assistant built using FastAPI and JavaScript, designed to provide a conversational interface similar to ChatGPT.
 
 ## Features
-- Front-end JavaScript interface using Aider or Roo Code.
-- Back-end Python FastAPI server.
-- Integration with LiteLLM for LLM calls.
-- Continuous conversation functionality.
-- User can choose an LLM.
-- UI displays conversation similar to ChatGPT.
-- Text and image file uploads for prompt context.
-- Side-by-side LLM response comparison.
+- Front-end JavaScript interface
+- Back-end Python FastAPI server
+- Continuous conversation functionality
+- User selection of LLM
+- Text and image file uploads
+- Side-by-side LLM response comparison
 
 ## Deployment
-- Deployed on Render.com. Link to be included in the Lab02 repo README.
+The Chat Assistant is deployed on Render.com. You can access it [here](#).
 
-## Installation Instructions
-1. Clone the repository.
-2. Install dependencies for both front-end and back-end.
-3. Set up environment variables for API keys.
-4. Run the FastAPI server and the front-end application.
+## Setup Instructions
+1. Clone the repository: `git clone https://github.com/robot-coder/ChatAssistant_v2`
+2. Install dependencies for the front-end and back-end.
+3. Run the FastAPI server.
+4. Open the front-end in your browser.
 
 ## Usage
-- Access the Chat Assistant through the deployed link.
-- Interact with the assistant by typing messages and uploading files as needed.
+- Interact with the Chat Assistant through the UI.
+- Upload text or image files to enhance the conversation context.
+- Compare responses from different LLMs side by side.
 
-## Contributing
-- Contributions are welcome! Please submit a pull request for any changes or improvements.
+## Acknowledgments
+- Inspired by Aider and Roo Code for development.
